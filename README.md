@@ -10,7 +10,7 @@ Regular users that are uncomfortable with long URLs.
 | ---------------- | ----------------------- | ----------- |
 | Language         | Java                    | 21          |
 | Framework        | Spring Boot             | *add later* |
-| Database         | PostgreSQL              | *add later* |
+| Database         | MySQL                   | *add later* |
 | API docs         | Swagger UI with OpenAPI | *add later* |
 | Unit test        | JUnit + Mockito         | *add later* |
 | Integration test | Testcontainers          | *add later* |
